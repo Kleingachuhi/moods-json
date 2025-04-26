@@ -1,0 +1,82 @@
+"moods": [
+  {
+    "id": "14",
+    "userId": 1,
+    "mood": "Happy",
+    "reflection": "Had a great dinner with friends tonight.",
+    "date": "2023-04-27T19:00:00Z",
+    "emoji": "😊"
+  },
+  {
+    "id": "15",
+    "userId": 2,
+    "mood": "Sad",
+    "reflection": "Feeling a bit down today, missing some familiar faces.",
+    "date": "2023-04-28T08:45:00Z",
+    "emoji": "😢"
+  },
+  {
+    "id": "16",
+    "userId": 3,
+    "mood": "Excited",
+    "reflection": "Just booked my dream vacation!",
+    "date": "2023-04-28T14:20:00Z",
+    "emoji": "🤩"
+  },
+  {
+    "id": "17",
+    "userId": 4,
+    "mood": "Angry",
+    "reflection": "Had a disagreement with a colleague. Frustrating.",
+    "date": "2023-04-29T10:10:00Z",
+    "emoji": "😠"
+  },
+  {
+    "id": "18",
+    "userId": 1,
+    "mood": "Tired",
+    "reflection": "Long day at work, ready to sleep.",
+    "date": "2023-04-29T22:30:00Z",
+    "emoji": "😴"
+  },
+  {
+    "id": "19",
+    "userId": 2,
+    "mood": "Anxious",
+    "reflection": "Worried about an upcoming deadline.",
+    "date": "2023-04-30T15:00:00Z",
+    "emoji": "😰"
+  },
+  {
+    "id": "20",
+    "userId": 3,
+    "mood": "Peaceful",
+    "reflection": "Spent the day at the beach, feeling calm and relaxed.",
+    "date": "2023-04-30T18:45:00Z",
+    "emoji": "😌"
+  },
+  {
+    "id": "21",
+    "userId": 4,
+    "mood": "Happy",
+    "reflection": "Had a productive day and got everything done on my list.",
+    "date": "2023-05-01T12:00:00Z",
+    "emoji": "😊"
+  },
+  {
+    "id": "22",
+    "userId": 1,
+    "mood": "Sad",
+    "reflection": "Feeling a bit lonely today, missing my old friends.",
+    "date": "2023-05-01T09:30:00Z",
+    "emoji": "😢"
+  },
+  {
+    "id": "23",
+    "userId": 2,
+    "mood": "Excited",
+    "reflection": "Just found out I got accepted to my dream university!",
+    "date": "2023-05-02T11:00:00Z",
+    "emoji": "🤩"
+  }
+]
